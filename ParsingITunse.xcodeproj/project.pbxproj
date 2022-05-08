@@ -11,6 +11,7 @@
 		BD7277DD28283FCF0076C269 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7277DC28283FCF0076C269 /* ContentView.swift */; };
 		BD7277DF28283FD10076C269 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD7277DE28283FD10076C269 /* Assets.xcassets */; };
 		BD7277E228283FD10076C269 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD7277E128283FD10076C269 /* Preview Assets.xcassets */; };
+		BD7277E928283FE20076C269 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7277E828283FE20076C269 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BD7277DC28283FCF0076C269 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD7277DE28283FD10076C269 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD7277E128283FD10076C269 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD7277E828283FE20076C269 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				BD7277DA28283FCF0076C269 /* ParsingITunseApp.swift */,
+				BD7277E828283FE20076C269 /* Model.swift */,
 				BD7277DC28283FCF0076C269 /* ContentView.swift */,
 				BD7277DE28283FD10076C269 /* Assets.xcassets */,
 				BD7277E028283FD10076C269 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD7277E928283FE20076C269 /* Model.swift in Sources */,
 				BD7277DD28283FCF0076C269 /* ContentView.swift in Sources */,
 				BD7277DB28283FCF0076C269 /* ParsingITunseApp.swift in Sources */,
 			);
